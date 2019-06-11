@@ -1,0 +1,17 @@
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/Stryker.Demo.Tests.deps.json
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/Stryker.Demo.Tests.runtimeconfig.json
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/Stryker.Demo.Tests.runtimeconfig.dev.json
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/obj/Debug/netcoreapp2.2/Stryker.Demo.Tests.csproj.CoreCompileInputs.cache
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/obj/Debug/netcoreapp2.2/Stryker.Demo.Tests.AssemblyInfoInputs.cache
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/obj/Debug/netcoreapp2.2/Stryker.Demo.Tests.AssemblyInfo.cs
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/Stryker.Demo.Tests.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/Stryker.Demo.Tests.pdb
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/Stryker.Demo.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/bin/Debug/netcoreapp2.2/Stryker.Demo.pdb
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/obj/Debug/netcoreapp2.2/Stryker.Demo.Tests.csprojAssemblyReference.cache
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/obj/Debug/netcoreapp2.2/Stryker.Demo.Tests.csproj.CopyComplete
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/obj/Debug/netcoreapp2.2/Stryker.Demo.Tests.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo.Tests/obj/Debug/netcoreapp2.2/Stryker.Demo.Tests.pdb

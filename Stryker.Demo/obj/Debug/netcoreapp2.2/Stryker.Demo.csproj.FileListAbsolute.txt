@@ -1,0 +1,9 @@
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/bin/Debug/netcoreapp2.2/Stryker.Demo.deps.json
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/obj/Debug/netcoreapp2.2/Stryker.Demo.csproj.CoreCompileInputs.cache
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/obj/Debug/netcoreapp2.2/Stryker.Demo.AssemblyInfoInputs.cache
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/obj/Debug/netcoreapp2.2/Stryker.Demo.AssemblyInfo.cs
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/bin/Debug/netcoreapp2.2/Stryker.Demo.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/bin/Debug/netcoreapp2.2/Stryker.Demo.pdb
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/obj/Debug/netcoreapp2.2/Stryker.Demo.csprojAssemblyReference.cache
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/obj/Debug/netcoreapp2.2/Stryker.Demo.dll
+/Users/patrick/dev/stryker-demo/Stryker.Demo/Stryker.Demo/obj/Debug/netcoreapp2.2/Stryker.Demo.pdb
